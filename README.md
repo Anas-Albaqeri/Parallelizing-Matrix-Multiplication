@@ -1,8 +1,7 @@
-# Assignment 2 (Matrix Multiplication Using Pthreads and OpenMP)
+# Matrix Multiplication Using Pthreads and OpenMP
 
 Anas Albaqeri
 
-202004427
 
 ---
 
